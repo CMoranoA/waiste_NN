@@ -1,7 +1,7 @@
 import numpy as np
 from sklearn.model_selection import train_test_split
 
-from tensorflow.keras.applications import inception_resnet_v2
+import tensorflow as tf
 from tensorflow.keras import Input, models
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import MaxPool2D, Conv2D, Dense, Flatten, Dropout
@@ -58,7 +58,7 @@ class Trainer():
         return model
 
     def build_model(self):
-        inception_resnet_v2 = inception_resnet_v2.InceptionResNetV2(
+        inception_resnet_v2 = tf.keras.applications.inception_resnet_v2.InceptionResNetV2(
             include_top=False,
             weights="imagenet",
             input_tensor=None,
