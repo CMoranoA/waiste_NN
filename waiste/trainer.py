@@ -1,21 +1,35 @@
-from waiste.params import IMAGE_CHANNELS, IMAGE_HEIGHT
 import numpy as np
+from sklearn.model_selection import train_test_split
+
+from tensorflow.keras.applications import inception_resnet_v2
+from tensorflow.keras import Input, models
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import MaxPool2D, Conv2D, Dense, Flatten, Dropout
+from tensorflow.keras.callbacks import EarlyStopping
 
 from waiste.data import get_data
-from waiste.params import IMAGE_WIDTH, IMAGE_HEIGHT, IMAGE_CHANNELS, IMAGE_SIZE, CATEGORIES
+from waiste.params import IMAGE_WIDTH, IMAGE_HEIGHT, IMAGE_CHANNELS,CATEGORIES, NUMBER_OF_BATCHES
 from waiste.preprocessor import build_data_arrays, cast_image_size
+
+
+### TRAINING VARIABLES
+TRAINING_BATCH_SIZE = 64
+EPOCHS = 500
+EARLY_STOPPING_PATIENCE = 25
+EARLY_STOPPING = EarlyStopping(monitor="val_loss",
+                                         patience=EARLY_STOPPING_PATIENCE,
+                                         restore_best_weights=True)
 
 
 class Trainer():
     def __init__(self):
-        self.x_train = None
-        self.y_train = None
+        self.model = None
 
     def train(self):
         # Get data
         data = get_data()
         # Take full batches
-        data = data.take(700)
+        data = data.take(NUMBER_OF_BATCHES)
         # Preprocessing
         data_images, data_labels = build_data_arrays(data)
         data_images_casted = [cast_image_size(image) for image in data_images]
@@ -24,22 +38,59 @@ class Trainer():
         data_images_casted = data_images_casted.reshape(
             -1, IMAGE_WIDTH, IMAGE_HEIGHT, IMAGE_CHANNELS)
         data_labels = data_labels.reshape(-1, CATEGORIES)
-        
+
         # Split the dataset
-        self.x_train, self.y_train, self.x_valid, self.y_valid = split_data(
-            np.array(image_paths), np.array(labels))
+        train_X, test_X, train_y, test_y = train_test_split(
+            data_images_casted,
+            data_labels,
+            test_size=0.2,
+            random_state=42)
 
         model = self.build_model()
-        model.fit(train_dataset,
-                  validation_data=validation_dataset,
+        model.fit(train_X, train_y,
+                  validation_split=0.3,
                   epochs=EPOCHS,
                   callbacks=[EARLY_STOPPING],
-                  batch_size=TRAINING_BATCH_SIZE)
+                  batch_size=TRAINING_BATCH_SIZE,
+                  verbose=1)
         self.model = model
         models.save_model(model, PATH_TO_LOCAL_MODEL)
         return model
 
     def build_model(self):
+        inception_resnet_v2 = inception_resnet_v2.InceptionResNetV2(
+            include_top=False,
+            weights="imagenet",
+            input_tensor=None,
+            input_shape=(128, 128, 3),
+            pooling=None,
+            classifier_activation='softmax')
+        inception_resnet_v2.trainable = False
+
+        model = Sequential()
+        model.add(Input(shape=(128, 128, 3)))
+
+        model.add(inception_resnet_v2)
+
+        model.add(Conv2D(32, (4, 4), padding='same', activation="relu"))
+        model.add(MaxPool2D(pool_size=(4, 4), padding='same'))
+        model.add(Dropout(0.4))
+
+        model.add(Dense(30, activation='relu'))
+
+        model.add(Conv2D(16, (3, 3), padding='same', activation="relu"))
+        model.add(MaxPool2D(pool_size=(2, 2), padding='same'))
+        model.add(Dropout(0.3))
+
+        model.add(Flatten())
+
+        model.add(Dense(50, activation='relu'))
+        model.add(Dropout(0.2))
+        model.add(Dense(10, activation='softmax'))
+
+        model.compile(loss='categorical_crossentropy',
+                      optimizer='adam',
+                      metrics=["accuracy"])
         return model
 
 
