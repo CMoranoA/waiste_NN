@@ -8,7 +8,7 @@ from tensorflow.keras.layers import MaxPool2D, Conv2D, Dense, Flatten, Dropout
 from tensorflow.keras.callbacks import EarlyStopping
 
 from waiste.data import get_data
-from waiste.params import IMAGE_WIDTH, IMAGE_HEIGHT, IMAGE_CHANNELS,CATEGORIES, NUMBER_OF_BATCHES
+from waiste.params import IMAGE_WIDTH, IMAGE_HEIGHT, IMAGE_CHANNELS,CATEGORIES, NUMBER_OF_BATCHES, PATH_TO_LOCAL_MODEL
 from waiste.preprocessor import build_data_arrays, cast_image_size
 
 
@@ -46,6 +46,7 @@ class Trainer():
             test_size=0.2,
             random_state=42)
 
+        # Train and save model
         model = self.build_model()
         model.fit(train_X, train_y,
                   validation_split=0.3,
