@@ -56,6 +56,7 @@ class Trainer():
                   verbose=1)
         self.model = model
         models.save_model(model, PATH_TO_LOCAL_MODEL)
+        print(model.evaluate(X_test, y_test))
         return model
 
     def build_model(self):
