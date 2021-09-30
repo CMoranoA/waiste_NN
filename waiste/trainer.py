@@ -49,13 +49,13 @@ class Trainer():
         # Train and save model
         model = self.build_model()
         model.fit(train_X, train_y,
-                  validation_split=0.3,
+                  validation_split=0.2,
                   epochs=EPOCHS,
                   callbacks=[EARLY_STOPPING],
                   batch_size=TRAINING_BATCH_SIZE,
                   verbose=1)
         self.model = model
-        models.save_model(model, PATH_TO_LOCAL_MODEL)
+        model.save(PATH_TO_LOCAL_MODEL)
         return model
 
     def build_model(self):
