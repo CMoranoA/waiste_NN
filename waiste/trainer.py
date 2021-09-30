@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 
 import tensorflow as tf
@@ -99,3 +100,16 @@ class Trainer():
 if __name__ == '__main__':
     trainer = Trainer()
     model = trainer.train()
+    # plot loss
+    plt.figure(figsize=(10, 15))
+    plt.subplot(211)
+    plt.title('Cross Entropy Loss')
+    plt.plot(model.history['loss'], color='blue', label='train')
+    plt.plot(model.history['val_loss'], color='orange', label='valid')
+    plt.legend()
+    # plot accuracy
+    plt.subplot(212)
+    plt.title('Classification Accuracy')
+    plt.plot(model.history['accuracy'], color='blue', label='train')
+    plt.plot(model.history['val_accuracy'], color='orange', label='valid')
+    plt.legend()
