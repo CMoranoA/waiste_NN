@@ -56,7 +56,8 @@ class Trainer():
                   batch_size=TRAINING_BATCH_SIZE,
                   verbose=1)
         self.model = model
-        models.save_model(model, PATH_TO_LOCAL_MODEL)
+        model.save(PATH_TO_LOCAL_MODEL)
+        # models.save_model(model, PATH_TO_LOCAL_MODEL)
         print(model.evaluate(test_X, test_y))
         return model
 
