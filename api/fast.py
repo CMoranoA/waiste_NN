@@ -1,13 +1,10 @@
 from fastapi import FastAPI
-from tensorflow.keras.utils import image_dataset_from_directory
 import tensorflow as tf
 from tensorflow.keras import models
-from waiste.params import IMAGE_WIDTH, IMAGE_HEIGHT, BATCH_SIZE, IMAGE_CHANNELS, CATEGORIES, PATH_TO_LOCAL_MODEL, CATEGORIES_LIST
-from waiste.preprocessor import build_data_arrays, cast_image_size
+from waiste.params import PATH_TO_LOCAL_MODEL
+from waiste.preprocessor import cast_image_size
+from waiste.data import get_categories
 import numpy as np
-
-import pytz
-
 
 app = FastAPI()
 
@@ -36,5 +33,7 @@ def predict():
 
     predict1 = model.predict(image_final)
     
+    categories_list = get_categories()
+    
     print(predict1)
-    return CATEGORIES_LIST[np.argmax(predict1)]
+    return categories_list[np.argmax(predict1)]

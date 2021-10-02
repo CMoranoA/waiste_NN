@@ -9,7 +9,7 @@ from tensorflow.keras.layers import MaxPool2D, Conv2D, Dense, Flatten, Dropout
 from tensorflow.keras.callbacks import EarlyStopping
 
 from waiste.data import get_data
-from waiste.params import IMAGE_WIDTH, IMAGE_HEIGHT, IMAGE_CHANNELS,CATEGORIES, NUMBER_OF_BATCHES, PATH_TO_LOCAL_MODEL
+from waiste.params import IMAGE_WIDTH, IMAGE_HEIGHT, IMAGE_CHANNELS, NUMBER_OF_BATCHES, PATH_TO_LOCAL_MODEL
 from waiste.preprocessor import build_data_arrays, cast_image_size
 
 
