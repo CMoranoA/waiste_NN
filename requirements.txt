@@ -9,7 +9,7 @@ numpy
 pandas
 scikit-learn
 sklearn
-tensorflow
+tensorflow-cpu
 matplotlib
 seaborn
 

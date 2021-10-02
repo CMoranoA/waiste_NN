@@ -26,6 +26,7 @@ class Trainer():
     def __init__(self):
         self.model = None
 
+    @tf.autograph.experimental.do_not_convert
     def train(self):
         # Get data
         data = get_data()
