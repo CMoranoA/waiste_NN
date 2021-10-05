@@ -20,3 +20,12 @@ def get_data():
                                         follow_links=False,
                                         crop_to_aspect_ratio=False)
     return data
+
+def get_categories():
+    data = get_data()
+    categories = data.class_names
+    print(categories)
+    return categories
+
+if __name__ == '__main__':
+    get_categories()
