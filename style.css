@@ -1,0 +1,19 @@
+.stTextInput>label, .stTextInput>div>div>input {
+  color: rgb(203, 58, 13);
+  opacity: 1;
+  font-family: courier;
+  font-size: medium;
+}
+
+.stTextInput>label {
+  padding: 16px;
+  background-color: rgb(71, 152,55, 0.5);
+}
+
+.stHorizontalBlock>.stBlock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: blanchedalmond;
+  text-align: center;
+}
