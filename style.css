@@ -1,5 +1,5 @@
 .stTextInput>label, .stTextInput>div>div>input {
-  color: rgb(203, 58, 13);
+  color: #1c6ca5;
   opacity: 1;
   font-family: courier;
   font-size: medium;
@@ -16,4 +16,16 @@
   justify-content: center;
   background: blanchedalmond;
   text-align: center;
+}
+
+.streamlit-expanderHeader {
+  color: #1c6ca5;
+  opacity: 1;
+  font-family: courier;
+  font-size: medium;
+  background-color: rgb(71, 152,55, 0.5);
+}
+
+.streamlit-expanderHeader:hover {
+  color: #1c6ca5;
 }

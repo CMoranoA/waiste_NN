@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from waiste.layout_params import background_image, title, title1, title2, title3, subtitle1, subtitle2, subtitle3
+from waiste.layout_params import background_image, title, title1, title2, title3, subtitle1, subtitle2, subtitle3, upload_photo
 
 # Site configuration
 st.set_page_config(page_title="wAIste",
@@ -19,21 +19,20 @@ with col1:
     st.markdown(title1, unsafe_allow_html=True)
     st.markdown(subtitle1, unsafe_allow_html=True)
     st.image(
-      "https://cdn.pixabay.com/photo/2017/07/11/10/43/upload-2493114_1280.png"
+        "https://cdn.pixabay.com/photo/2016/01/03/00/43/upload-1118929_1280.png"
     )
 
 with col2:
     st.markdown(title2, unsafe_allow_html=True)
     st.markdown(subtitle2, unsafe_allow_html=True)
     st.image(
-        "https://cdn.pixabay.com/photo/2016/10/10/01/49/delete-1727486_1280.png"
-    )
+        "https://cdn.pixabay.com/photo/2012/04/14/14/42/man-34164_1280.png")
 
 with col3:
     st.markdown(title3, unsafe_allow_html=True)
     st.markdown(subtitle3, unsafe_allow_html=True)
     st.image(
-        "https://cdn.pixabay.com/photo/2016/10/08/18/35/the-location-of-the-1724293_1280.png"
+        "https://cdn.pixabay.com/photo/2016/01/10/22/23/location-1132648_1280.png"
     )
 
 st.markdown("<br>", unsafe_allow_html=True)
@@ -47,14 +46,16 @@ def local_css(file_name):
         st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
 local_css("style.css")
-name = st.text_input('Name', '')
-address = st.text_input('Address', '')
-st.subheader('Upload a photo')
+col4, col5 = st.columns(2)
+with col4:
+    name = st.text_input('Name', '')
+
+with col5:
+    address = st.text_input('Address', '')
 
 # User uploads image
 with st.expander("Upload your waste image..."):
-    uploaded_file = st.file_uploader("Choose an image...",
-                                     type=['png', 'jpg', 'jpeg'])
+    uploaded_file = st.file_uploader("", type=['png', 'jpg', 'jpeg'])
 
 # Acá va la predicción
 
