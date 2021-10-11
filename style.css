@@ -1,13 +1,14 @@
 .stTextInput>label, .stTextInput>div>div>input {
-  color: #1c6ca5;
+  color: rgba(17, 63, 8, 0.959);
   opacity: 1;
-  font-family: courier;
+  font-family: sans-serif;
   font-size: medium;
+  text-shadow: 0 0 black;
 }
 
 .stTextInput>label {
   padding: 16px;
-  background-color: rgb(71, 152,55, 0.5);
+  text-shadow: 0 0 black;
 }
 
 .stHorizontalBlock>.stBlock {
@@ -19,13 +20,14 @@
 }
 
 .streamlit-expanderHeader {
-  color: #1c6ca5;
+  color: rgba(17, 63, 8, 0.959);
   opacity: 1;
-  font-family: courier;
+  font-family: sans-serif;
   font-size: medium;
-  background-color: rgb(71, 152,55, 0.5);
+  text-shadow: 0 0 black;
 }
 
 .streamlit-expanderHeader:hover {
-  color: #1c6ca5;
+  color: rgba(17, 63, 8, 0.959);
+  text-shadow: 0 0 black;
 }

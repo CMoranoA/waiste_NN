@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from waiste.layout_params import background_image, title, title1, title2, title3, subtitle1, subtitle2, subtitle3, upload_photo
+from waiste.layout_params import background_image, title, title1, title2, title3, subtitle1, subtitle2, subtitle3, paper_bin, cardboard_bin, metal_bin, plastic_bin, glass_bin, organic_bin, electronics_bin, bricks_bin, telgopor_bin, non_recyclable_bin, hazardous_bin, clothes_bin, paper_title, cardboard_title, metal_title, plastic_title, glass_title, organic_title, electronics_title, bricks_title, telgopor_title, non_recyclable_title, hazardous_title, clothes_title, available_categories, find_location
 
 # Site configuration
 st.set_page_config(page_title="wAIste",
@@ -58,11 +58,79 @@ with st.expander("Upload your waste image..."):
     uploaded_file = st.file_uploader("", type=['png', 'jpg', 'jpeg'])
 
 # Acá va la predicción
+category = 'Metal'
 
+st.markdown("<br>", unsafe_allow_html=True)
+st.markdown("<br>", unsafe_allow_html=True)
+
+st.markdown(available_categories, unsafe_allow_html=True)
+
+st.markdown("<br>", unsafe_allow_html=True)
+st.markdown("<br>", unsafe_allow_html=True)
+
+col6, col7, col8, col9, col10, col11 = st.columns(6)
+with col6:
+    st.markdown(paper_bin, unsafe_allow_html=True)
+    st.markdown(paper_title, unsafe_allow_html=True)
+
+with col7:
+    st.markdown(cardboard_bin, unsafe_allow_html=True)
+    st.markdown(cardboard_title, unsafe_allow_html=True)
+
+with col8:
+    st.markdown(metal_bin, unsafe_allow_html=True)
+    st.markdown(metal_title, unsafe_allow_html=True)
+
+with col9:
+    st.markdown(plastic_bin, unsafe_allow_html=True)
+    st.markdown(plastic_title, unsafe_allow_html=True)
+
+with col10:
+    st.markdown(glass_bin, unsafe_allow_html=True)
+    st.markdown(glass_title, unsafe_allow_html=True)
+
+with col11:
+    st.markdown(organic_bin, unsafe_allow_html=True)
+    st.markdown(organic_title, unsafe_allow_html=True)
+
+st.markdown("<br>", unsafe_allow_html=True)
+st.markdown("<br>", unsafe_allow_html=True)
+col12, col13, col14, col15, col16, col17 = st.columns(6)
+with col12:
+    st.markdown(electronics_bin, unsafe_allow_html=True)
+    st.markdown(electronics_title, unsafe_allow_html=True)
+
+with col13:
+    st.markdown(bricks_bin, unsafe_allow_html=True)
+    st.markdown(bricks_title, unsafe_allow_html=True)
+
+with col14:
+    st.markdown(telgopor_bin, unsafe_allow_html=True)
+    st.markdown(telgopor_title, unsafe_allow_html=True)
+
+with col15:
+    st.markdown(hazardous_bin, unsafe_allow_html=True)
+    st.markdown(hazardous_title, unsafe_allow_html=True)
+
+with col16:
+    st.markdown(clothes_bin, unsafe_allow_html=True)
+    st.markdown(clothes_title, unsafe_allow_html=True)
+
+with col17:
+    st.markdown(non_recyclable_bin, unsafe_allow_html=True)
+    st.markdown(non_recyclable_title, unsafe_allow_html=True)
+
+st.markdown("<br>", unsafe_allow_html=True)
+st.markdown("<br>", unsafe_allow_html=True)
 
 # Show map with locations
-def get_map_data():
+st.markdown(find_location, unsafe_allow_html=True)
 
+st.markdown("<br>", unsafe_allow_html=True)
+st.markdown("<br>", unsafe_allow_html=True)
+
+
+def get_map_data():
     data = pd.read_csv(
         "/Users/Nadia/code/nadiasalmen/waiste/raw_data/puntos-verdes_cleaned.csv",
         sep=",")
