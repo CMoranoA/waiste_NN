@@ -34,5 +34,6 @@ joblib
 memoized-property
 termcolor
 
-# frontend
+
 streamlit
+google-cloud-aiplatform

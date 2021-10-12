@@ -51,7 +51,7 @@ class Trainer():
         # Train and save model
         model = self.build_model()
         model.fit(train_X, train_y,
-                  validation_split=0.3,
+                  validation_split=0.2,
                   epochs=EPOCHS,
                   callbacks=[EARLY_STOPPING],
                   batch_size=TRAINING_BATCH_SIZE,
