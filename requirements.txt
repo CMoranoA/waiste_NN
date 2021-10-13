@@ -12,7 +12,7 @@ sklearn
 tensorflow-cpu
 matplotlib
 seaborn
-geopy.geocoders
+geopy
 geopandas
 
 # tests/linter
