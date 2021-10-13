@@ -1,0 +1,33 @@
+.stTextInput>label, .stTextInput>div>div>input {
+  color: rgba(17, 63, 8, 0.959);
+  opacity: 1;
+  font-family: sans-serif;
+  font-size: medium;
+  text-shadow: 0 0 black;
+}
+
+.stTextInput>label {
+  padding: 16px;
+  text-shadow: 0 0 black;
+}
+
+.stHorizontalBlock>.stBlock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: blanchedalmond;
+  text-align: center;
+}
+
+.streamlit-expanderHeader {
+  color: rgba(17, 63, 8, 0.959);
+  opacity: 1;
+  font-family: sans-serif;
+  font-size: medium;
+  text-shadow: 0 0 black;
+}
+
+.streamlit-expanderHeader:hover {
+  color: rgba(17, 63, 8, 0.959);
+  text-shadow: 0 0 black;
+}

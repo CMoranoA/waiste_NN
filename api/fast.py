@@ -16,14 +16,14 @@ def index():
 
 @app.get("/predict")
 def predict():
-    filepath = "/home/pablos/code/psandoval90/PruebasWaiste/botvidrio.jpeg"
+    filepath = "/Users/Nadia/Dropbox/My Mac (MacBook-Pro.local)/Desktop/lata.jpeg"
     return predict_image_classification_sample(
     project="1007606971126",
     endpoint_id="1640418572083658752",
     location="us-central1",
     filename=filepath)
 
-    
+
     # image = tf.keras.utils.load_img(
     #     filepath, grayscale=False, color_mode='rgb', target_size=(128,128),
     #     interpolation='bilinear')
@@ -35,13 +35,12 @@ def predict():
     # image_norm = np.array(image_norm)
 
     # image_final = image_norm.reshape(-1, 128, 128, 3)
-    
+
     # model = models.load_model(PATH_TO_LOCAL_MODEL, compile = True)
 
     # predict1 = model.predict(image_final)
-    
+
     # categories_list = get_categories()
-    
+
     # print(predict1)
     # return categories_list[np.argmax(predict1)]
-
