@@ -12,6 +12,8 @@ sklearn
 tensorflow-cpu
 matplotlib
 seaborn
+geopy.geocoders
+geopandas
 
 # tests/linter
 black
