@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from waiste.layout_params import background_image, title, title1, title2, title3, subtitle1, subtitle2, subtitle3, paper_bin, cardboard_bin, metal_bin, plastic_bin, glass_bin, organic_bin, electronics_bin, bricks_bin, telgopor_bin, non_recyclable_bin, hazardous_bin, clothes_bin, paper_title, cardboard_title, metal_title, plastic_title, glass_title, organic_title, electronics_title, bricks_title, telgopor_title, non_recyclable_title, hazardous_title, clothes_title, available_categories, find_location
+from api.fast import predict
 
 # Site configuration
 st.set_page_config(page_title="wAIste",
@@ -58,6 +59,8 @@ with st.expander("Upload your waste image..."):
     uploaded_file = st.file_uploader("", type=['png', 'jpg', 'jpeg'])
 
 # Acá va la predicción
+# st.write(predict())
+
 category = 'Metal'
 
 st.markdown("<br>", unsafe_allow_html=True)
