@@ -1,8 +1,10 @@
 import pandas as pd
 import numpy as np
 from geopy.geocoders import Nominatim
+from waiste.params import PATH_TO_PUNTOS_VERDES
 
-data = pd.read_csv("/Users/cristobalmorano/code/nadiasalmen/waiste/raw_data/puntos-verdes_cleaned.csv")
+data = pd.read_csv(PATH_TO_PUNTOS_VERDES)
+
 
 def minkowski_distance(lat_casa="latitud_casa",
                        long_casa="longitud_casa",
@@ -20,14 +22,9 @@ def locate_lat_long(direction):
     lat, long = location[0], location[1]
     return (lat, long)
 
-
-
-
 def calculate_minimun_distance(direction, material):
-    
     if material == "No reciclable":
         return ("Material no reciclable.")
-    
     else:
         # dirección casa
         lat_d = locate_lat_long(direction)[0]
@@ -39,12 +36,9 @@ def calculate_minimun_distance(direction, material):
         long_p = data_set["Long"]
 
         #calcular distancias
-        distancias = []    
+        distancias = []
         for i in range(data_set.shape[0]):
-            distancias.append(minkowski_distance(lat_casa = lat_d, long_casa = long_d, 
+            distancias.append(minkowski_distance(lat_casa = lat_d, long_casa = long_d,
                                                     lat_punto = lat_p[i], long_punto = long_p[i]))
-            
+
         return (data.iloc[distancias.index(min(distancias)), 2:7])
-    
-    
-    
