@@ -12,6 +12,7 @@ sklearn
 tensorflow-cpu
 matplotlib
 seaborn
+
 opencv-python
 geopy
 geopandas
