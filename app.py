@@ -159,6 +159,8 @@ class WasteBinsMap:
         return data[[
             LAT_COLUMN,
             LONG_COLUMN,
+            "material",
+            "Lugar",
             "material_color",
             "color_r",
             "color_g",
@@ -183,8 +185,7 @@ class WasteBinsMap:
         return pdk.Deck(
             map_style="mapbox://styles/mapbox/light-v10",
             initial_view_state=self.view_initial_location.view_location,
-            layers=[self._scatter_plotter_layer()],
-        )
+            layers=[self._scatter_plotter_layer()])
 
     def view(self):
         st.pydeck_chart(self._deck())
@@ -382,5 +383,11 @@ else:
         map_style="mapbox://styles/mapbox/light-v10",
         initial_view_state=view_state,
         layers=[layer],
-    )
+        tooltip={
+            "html":
+            f'{material.upper()} CONTAINER - {closest_location_info["Lugar"]}',
+            "style": {
+                "color": "white"
+            }
+        })
     st.pydeck_chart(deck)
