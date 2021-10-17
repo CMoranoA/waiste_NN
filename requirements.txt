@@ -12,6 +12,7 @@ sklearn
 tensorflow-cpu
 matplotlib
 seaborn
+opencv-python
 geopy
 geopandas
 
@@ -39,3 +40,4 @@ termcolor
 
 streamlit
 google-cloud-aiplatform
+pydeck
