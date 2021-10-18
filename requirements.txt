@@ -8,7 +8,8 @@ wheel>=0.29
 numpy
 pandas
 
-opencv-python
+# opencv-python
+opencv-python-headless
 geopy
 geopandas
 
