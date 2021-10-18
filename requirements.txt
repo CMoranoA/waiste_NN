@@ -41,3 +41,4 @@ termcolor
 streamlit
 google-cloud-aiplatform
 pydeck
+pillow

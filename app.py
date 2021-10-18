@@ -8,7 +8,7 @@ from waiste.distance import calculate_minimun_distance, locate_lat_long
 from waiste.layout_params import background_image, title, title1, title2, title3, subtitle1, subtitle2, subtitle3, paper_title, cardboard_title, metal_title, plastic_title, glass_title, organic_title, electronics_title, bricks_title, telgopor_title, hazardous_title, clothes_title, bin_locations, find_location, enter_data, paper_bin, cardboard_bin, metal_bin, plastic_bin, glass_bin, organic_bin, electronics_bin, bricks_bin, telgopor_bin, hazardous_bin, clothes_bin, paper_small_bin, cardboard_small_bin, metal_small_bin, plastic_small_bin, glass_small_bin, organic_small_bin, electronics_small_bin, bricks_small_bin, telgopor_small_bin, hazardous_small_bin, clothes_small_bin, paper_subtitle, cardboard_subtitle, metal_subtitle, plastic_subtitle, glass_subtitle, organic_subtitle, electronics_subtitle, bricks_subtitle, telgopor_subtitle, hazardous_subtitle, clothes_subtitle, category, closest_location
 from waiste.params import PATH_TO_PUNTOS_VERDES, PATH_TO_MAP_DOTS
 from waiste.predict import predict_gcp
-
+from PIL import Image
 
 def get_map_data():
     data = pd.read_csv(PATH_TO_PUNTOS_VERDES, sep=",")
@@ -76,8 +76,15 @@ with st.expander("Upload your waste image..."):
 
 # Prediction
 if uploaded_file:
-    # material = predict_gcp(uploaded_file)
-    material = predict(uploaded_file)
+    image = Image.open(uploaded_file)
+    material = predict_gcp(image)
+    # material = predict(uploaded_file)
+    if material == "Telgopor":
+        material = "telgopor"
+    elif material == "Tetra-brik":
+        material = "tetrabrik"
+    elif material == "hazardous (bateries, cds)":
+        material = "hazardous"
 else:
     material = ""
 
@@ -106,7 +113,7 @@ MATERIAL_COLORS = {
     "electronics": "violet",
     "organics": "green",
     "telgopor": "gray",
-    "tetrabrick": "gold",
+    "tetrabrik": "gold",
     "plastic": "orange",
     "metal": "darkgreen",
     "glass": "lightblue",
@@ -301,7 +308,7 @@ else:
             st.markdown(electronics_bin, unsafe_allow_html=True)
             st.markdown(electronics_title, unsafe_allow_html=True)
 
-    if material == 'bricks':
+    if material == 'tetrabrik':
         with col1:
             st.markdown(category, unsafe_allow_html=True)
             st.markdown("<br>", unsafe_allow_html=True)
@@ -330,6 +337,12 @@ else:
             st.markdown(clothes_title, unsafe_allow_html=True)
 
     with col2:
+        if material == "telgopor":
+            material = "Telgopor"
+        elif material == "tetrabrik":
+            material = "Tetra-brik"
+        elif material == "hazardous":
+            material = "hazardous (bateries, cds)"
         closest_location_info = calculate_minimun_distance(address, material)
         st.markdown(closest_location, unsafe_allow_html=True)
         st.markdown("<br>", unsafe_allow_html=True)
