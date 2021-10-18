@@ -2,7 +2,6 @@
 .coverage
 .ipynb_checkpoints
 .DS_Store
-*.csv
 **/__pycache__/
 .env
 adroit-lantern-325013-2c10fd1b03ed.json

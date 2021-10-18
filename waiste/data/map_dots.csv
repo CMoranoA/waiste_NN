@@ -1,0 +1,810 @@
+Lat;Long;Lugar;Dirección;Barrio;Cooperativa;Día y Horario;material
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;paper
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;clothes
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;glass
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;glass
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,56160412;-58,45448264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;organics
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;clothes
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;metal
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;electronics
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;metal
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;metal
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;metal
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;plastic
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;glass
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;metal
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58889261;-58,42455759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;organics
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;electronics
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;metal
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;electronics
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;electronics
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;paper
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,61729012;-58,43399275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;organics
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;glass
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;glass
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;glass
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;glass
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;glass
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;metal
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;paper
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;metal
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;metal
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;metal
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;electronics
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;glass
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;plastic
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;paper
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;metal
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;clothes
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;glass
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;paper
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;paper
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,60507941;-58,41882484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;organics
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;electronics
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;glass
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;electronics
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;paper
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;paper
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;glass
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;paper
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,60486323;-58,44531074;PLAZA BENITO NAZAR;ANTEZANA y OLAYA;VILLA CRESPO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;metal
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63253982;-58,45513359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;organics
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;clothes
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,65198432;-58,41608332;PLAZA NUEVA POMPEYA;SAENZ AV. y TRAFUL;POMPEYA;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;electronics
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;plastic
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,55364323;-58,49750646;PLAZOLETA BALBIN;BALBIN, RICARDO DR. AV. y ARIAS;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,6162735;-58,52595518;PLAZA TOSCANERAS DE VILLA REAL;LISTA, RAMON CNEL. y MOLIERE;VILLA REAL;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;plastic
+-34,57325021;-58,47545481;PLAZA ZAPIOLA;JURAMENTO y DONADO;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;plastic
+-34,54941879;-58,4619668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;paper
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;paper
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,63327729;-58,52160413;CARREFOUR J B JUSTO;ALVAREZ JONTE AV. y PARÍS;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;metal
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;paper
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,64305865;-58,4817507;PARQUE AVELLANEDA;DIRECTORIO AV. y FERNANDEZ;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;paper
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,62205423;-58,41268998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,60527941;-58,41902484;PLAZA ALMAGRO;SARMIENTO y BULNES;ALMAGRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;plastic
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;metal
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;clothes
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;electronics
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,57077646;-58,48141502;PLAZA MARCOS SASTRE;MONROE y MILLER;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;glass
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;glass
+-34,6280612;-58,46423623;PLAZA PUEYRREDÓN;YERBAL y ARTIGAS, JOSE GERVASIO GRAL.;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,54921879;-58,4617668;ESTACIÓN NUÑEZ;GRECIA y PEDRAZA MANUELA;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;organics
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62888489;-58,49356487;PLAZA DE LA BANDERA;JUSTO, JUAN B. AV. y GAONA AV.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,59850813;-58,39115498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;organics
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,58909261;-58,42475759;PLAZA ARMENIA;MALABIA y NICARAGUA;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62596561;-58,40719855;PLAZA MARTIN FIERRO;URQUIZA, GRAL. y COCHABAMBA;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62197752;-58,37566303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;organics
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,64551447;-58,52321608;PLAZA SARMIENTO;COSQUIN y HUMAITA;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;metal
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;clothes
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;plastic
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;clothes
+-34,68788593;-58,47520209;PLAZA SUDAMÉRICA;PIEDRA BUENA AV. y FERNANDEZ DE LA CRUZ, F. GRAL. AV.;VILLA RIACHUELO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;clothes
+-34,58094043;-58,44477654;PLAZA MAFALDA;DUMONT, SANTOS y MARTINEZ, ENRIQUE GRAL.;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62185423;-58,41248998;PLAZA BOEDO;ESTADOS UNIDOS y SANCHEZ DE LORIA;BOEDO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;organics
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;paper
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,59190938;-58,44926227;PARQUE LOS ANDES;DORREGO AV. y GUZMAN;CHACARITA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62658478;-58,38195108;PLAZA CONSTITUCION;LIMA y GARAY, JUAN DE AV.;CONSTITUCION;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,62805887;-58,52056358;PLAZA CIUDAD DE BANFF;ARREGUI AV. y LISBOA;VERSALLES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,54430346;-58,47686858;PLAZA MAKENNA;CRAMER y RAMALLO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,60038042;-58,51259389;PLAZA ARENALES;NUEVA YORK y MERCEDES;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,58032653;-58,46310069;PLAZA 25 DE AGOSTO;CHARLONE y HEREDIA;VILLA OTUZAR;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,65734856;-58,52042836;PLAZA ROMULO ZABALA;ERCILLA 7502;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,67743804;-58,47671852;ESTACION LUGANO;GALLO, DELFIN y LEGUIZAMON, MARTINIANO;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,63758604;-58,37462626;PLAZA COLOMBIA;MONTES DE OCA, MANUEL AV. y BRANDSEN;BARRACAS;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;glass
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,6399002;-58,39943373;PLAZA GUILLERMO Y ALFREDO BARBIERI;LOS PATOS Y LUNA;PARQUE PATRICIOS;Cooperativa de Trabajo Reciclando Trabajo y Dignidad;Martes a Sábado de 11 a 17 hs.;paper
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;paper
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,64745759;-58,48429195;PLAZA DOMINGO OLIVERA;OLIVERA AV. 824;PARQUE AVELLANEDA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,57639411;-58,50398853;PLAZA LEANDRO N ALEM;ARTIGAS, JOSE GERVASIO GRAL. y LARSEN;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;plastic
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,58328774;-58,41025487;PARQUE LAS HERAS;SALGUERO, JERONIMO 2450;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,63559491;-58,48250294;PLAZA CORONEL RAMON FALCON;FALCON, RAMON L. CNEL. y BENEDETTI, OSVALDO E. DIP. NAC.;VELEZ SARSFIELD;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,56000914;-58,48764335;PLAZA ALBERDI;LARRALDE, CRISOLOGO AV. y ACHA, MARIANO GRAL.;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;metal
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;clothes
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,65080223;-58,52700333;PLAZA SARGENTO CABRAL;SUAREZ, JOSE LEON y MARTINEZ DE HOZ;LINIERS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61712434;-58,40382503;PLAZA DR. J. M. VELASCO IBARRA;JUJUY AV. y MEXICO;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,63582269;-58,44282125;PARQUE CHACABUCO;ASAMBLEA AV. y PUAN;PARQUE CHACABUCO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,6126842;-58,44351232;PLAZA AMADEO SABATTINI;COLPAYO y VALLESE, FELIPE;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,54704645;-58,46837082;PLAZA BALCARCE;MANZANARES y VUELTA DE OBLIGADO;NUÑEZ;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;metal
+-34,63469853;-58,4637732;PLAZA 11 DE NOVIEMBRE;DIRECTORIO AV. e ITALIA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,65110245;-58,44332886;VILLA 1.11.14;MORENO, PERITO AV. y VARELA AV.;FLORES;Recuperadores de villa;Martes a Sábado de 11 a 17 hs.;clothes
+-34,63984844;-58,36690417;PLAZA MATHEU;ARAOZ DE LA MADRID, GREGORIO, GRAL. 1050;LA BOCA;Cooperativa de Trabajo Recuperador Urbano el Trebol;Martes a Sábado de 11 a 17 hs.;glass
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,61370262;-58,45860403;PLAZA IRLANDA;ALVAREZ, DONATO TTE. GRAL. y GAONA AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;clothes
+-34,59870813;-58,39135498;PLAZA PETRONILA RODRIGUEZ;RODRIGUEZ PEÑA y PARAGUAY;RECOLETA;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;paper
+-34,56180412;-58,45468264;PLAZA MANUEL BELGRANO;CUBA y JURAMENTO AV.;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,63273982;-58,45533359;PLAZA DE LA MISERICORDIA;LAUTARO y BILBAO, FRANCISCO;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,5876699;-58,48447764;PLAZA NOBEL;BUCAREST y HAMBURGO;PARQUE CHAS;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;paper
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,54910468;-58,44207304;PASEO DE LAS AMERICAS;RAMSAY y BLANCO ENCALADA;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62639329;-58,5085446;PLAZA DON BOSCO;LOPE DE VEGA AV. y GONZALEZ, ELPIDIO;MONTE CASTRO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;glass
+-34,57203544;-58,48932093;PLAZA ECHEVERRIA;RIVERA, PEDRO I. DR. y BAUNESS;VILLA URQUIZA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,68353284;-58,46572644;LUGANO 1 Y 2;OLASCOAGA, MANUEL JOSE CNEL. y SOLDADO DE LA FRONTERA AV.;LUGANO;Cooperativa de Trabajo Baires Cero;Martes a Sábado de 11 a 17 hs.;glass
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,58850113;-58,39776437;PLAZA EMILIO MITRE;LAS HERAS GENERAL AV. y CANTILO;RECOLETA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,55153986;-58,48193992;PARQUE SAAVEDRA 1;PEREZ, ROQUE y PAROISSIEN;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;plastic
+-34,61020036;-58,46807858;PLAZA ROQUE SAENZ PEÑA;ESCALADA DE SAN MARTIN, R. y BOYACA;VILLA GENERAL MITRE;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;plastic
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;metal
+-34,61805988;-58,50725849;PLAZA MONSEÑOR FERMIN LAFITTE;ALLENDE y ARREGUI;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;glass
+-34,59091866;-58,50099675;PLAZA MARTIN RODRIGUEZ;HABANA y ARGERICH;VILLA PUEYRREDON;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,6179398;-58,49791373;PLAZA MONTE CASTRO;GUALEGUAYCHU y MIRANDA;MONTE CASTRO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,60644587;-58,43305061;PARQUE CENTENARIO;PATRICIAS ARGENTINAS AV. y ROENTGEN AV.;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62123508;-58,47369498;PLAZA DE LOS PERIODISTAS;NAZCA  AV. y NEUQUEN;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;paper
+-34,62150581;-58,45615431;PLAZA ANGEL GRIS;AVELLANEDA AV. y CALCENA;FLORES;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62961178;-58,48341872;PLAZA VELEZ SARSFIELD;AVELLANEDA AV. y CHIVILCOY;FLORESTA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;electronics
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,60554782;-58,49367062;PLAZA ARISTOBULO DEL VALLE;CAMPANA y BAIGORRIA;VILLA DEL PARQUE;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,57731446;-58,45790191;PLAZA SAN MIGUEL DE CORICOITIS;LORETO, VIRREY y DELGADO;COLEGIALES;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;electronics
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;telgopor
+-34,59785422;-58,3838957;PLAZA LIBERTAD;PARAGUAY y LIBERTAD;RETIRO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,62919359;-58,39635368;POLO CIRCO;INCLAN y PICHINCHA AV.;PARQUE PATRICIOS;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;clothes
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;electronics
+-34,61363122;-58,40601951;PLAZA MANZANA 66;MORENO y JUJUY AV.;BALVANERA;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;paper
+-34,56731143;-58,4646346;PLAZA CASTELLI;CONDE y JURAMENTO;BELGRANO;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,66446318;-58,46977019;PLAZA CALABRIA;CASTAÑARES AV. y ESCALADA AV.;VILLA SOLDATI;Cooperativa de Trabajo Primavera;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,66418617;-58,51443667;CARREFOUR MATADEROS;PAZ, GRAL. AV. 12950;MATADEROS;Cooperativa de Provisión de Servicios para Recolectores del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,61138838;-58,39789749;PLAZA 1RO DE MAYO;YRIGOYEN, HIPOLITO y PASCO;BALVANERA;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,65088541;-58,38874399;PARQUE LEONARDO PEREYRA;VELEZ SARSFIELD AV. y IRIARTE, GRAL. AV.;BARRACAS;Cooperativa de Trabajo Alelí;Martes a Sábado de 11 a 17 hs.;hazardous
+-34,62424342;-58,40464014;PLAZA VEA;SAN JUAN AV. y DEAN FUNES;SAN CRISTOBAL;Cooperativa de Trabajo Amanecer de los Cartoneros;Martes a Sábado de 11 a 17 hs.;metal
+-34,57686925;-58,40397292;PLAZA REPÚBLICA DE PERÚ;FIGUEROA ALCORTA PRES. AV. 3400;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;plastic
+-34,61271195;-58,52269676;PLAZA EL MAESTRO;BEIRO, FRANCISCO AV. y CALDERON DE LA BARCA, PEDRO;VILLA DEVOTO;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,53929576;-58,44723577;FADU / CIUDAD UNIVERSITARIA;GUIRALDES, INT. 2560;BELGRANO;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;electronics
+-34,62217752;-58,37586303;PLAZA ROSARIO VERA PEÑALOZZA;SAN JUAN AV. y CHACABUCO;SAN TELMO;Cooperativa de Trabajo Cartonera del Sur;Martes a Sábado de 11 a 17 hs.;metal
+-34,58935909;-58,41610356;PLAZA GUEMES;MEDRANO y CHARCAS;PALERMO;Cooperativa de Provisión de Servicios para Recolectores el Ceibo;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;glass
+-34,62020484;-58,49235805;PLAZA CIUDAD DE UDINE;CHIVILCOY y CAMARONES;FLORESTA;Cooperativa de Provisión de Servicios para Recuperadores Urbanos el Álamo;Martes a Sábado de 11 a 17 hs.;clothes
+-34,55006952;-58,47707614;PARQUE SAAVEDRA 2;GARCIA DEL RIO AV. y PINTO;SAAVEDRA;Cooperativa de Trabajo Las Madreselvas;Martes a Sábado de 11 a 17 hs.;cardboard
+-34,61749012;-58,43419275;PARQUE RIVADAVIA;RIVADAVIA AV. y BALCARCE, FLORENCIO;CABALLITO;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;tetrabrik
+-34,64946114;-58,51645115;PARQUE SANTOJANNI;DE LA TORRE, LISANDRO y PATRON;LINIERS;Cooperativa de Trabajo de Recuperadores Urbanos del Oeste;Martes a Sábado de 11 a 17 hs.;plastic
