@@ -6,5 +6,5 @@ IMAGE_WIDTH = 128
 IMAGE_SIZE = (IMAGE_WIDTH, IMAGE_HEIGHT)
 NUMBER_OF_BATCHES = 700
 PATH_TO_LOCAL_MODEL = './saved_model'
-PATH_TO_PUNTOS_VERDES = "raw_data/puntos-verdes_cleaned.csv"
-PATH_TO_MAP_DOTS = "raw_data/map_dots.csv"
+PATH_TO_PUNTOS_VERDES = "waiste/data/puntos-verdes_cleaned.csv"
+PATH_TO_MAP_DOTS = "waiste/data/map_dots.csv"
