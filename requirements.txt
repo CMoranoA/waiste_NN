@@ -7,10 +7,6 @@ wheel>=0.29
 # data science
 numpy
 pandas
-scikit-learn
-sklearn
-matplotlib
-seaborn
 
 opencv-python
 geopy
@@ -42,3 +38,4 @@ streamlit
 google-cloud-aiplatform
 pydeck
 pillow
+click==7.0
