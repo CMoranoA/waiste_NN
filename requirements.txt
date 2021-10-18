@@ -38,4 +38,4 @@ streamlit
 google-cloud-aiplatform
 pydeck
 pillow
-click==7.0
+click==7.1.2
