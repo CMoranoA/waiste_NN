@@ -155,3 +155,5 @@ clothes_small_bin = """
 category = '<h2 style="font-family: sans-serif; color: rgba(17, 63, 8, 0.959); text-align: center; text-shadow: 0 0 black; padding: 16px; font-size: 32px;">Category: </h2>'
 
 closest_location = '<h2 style="font-family: sans-serif; color: rgba(17, 63, 8, 0.959); text-align: center; text-shadow: 0 0 black; padding: 16px; font-size: 32px;">Closest location: </h2>'
+
+non_recyclable = '<h2 style="font-family: sans-serif; color:#423432; text-align: center; text-shadow: 0 0 black; padding-left: 16px; padding-right: 16px; padding-top: 48px; padding-bottom: 48px; font-size: 32px;">Unfortunately this material is not recycable!</h2>'
