@@ -1,8 +1,7 @@
 # Data analysis
 - Document here the project: waiste
 - Description: Project Description
-- Data Source:
-- Type of analysis:
+- Type of analysis: Image recognition using Neural Networks.
 
 Please document the project the better you can.
 
